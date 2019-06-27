@@ -81,14 +81,12 @@ span {
 #vk {
 	height: 80px;
 	width: 80px;
-	position: absolute;
-	margin-left: 90%;
+	float: right;
 }
 #disc {
 	height: 80px;
 	width: 80px;
-	position: absolute;
-	margin-left: 95%;
+	float: right;
 }
 .footer img {
 	margin-top: 10px;
